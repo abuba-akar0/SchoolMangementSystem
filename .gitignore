@@ -1,0 +1,36 @@
+# Ignore build artifacts
+/out/
+*.class
+
+# Ignore IntelliJ IDEA specific files
+/.idea/
+/*.iml
+
+# Ignore Maven target directory
+/target/
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled JasperReports files
+*.jasper
+
+# Ignore JavaFX SDK
+/javafx-sdk-*/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore OneDrive temporary files
+*.~*

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="cn.hutool.poi" type="repository">
+    <properties maven-id="cn.hutool:hutool-poi:5.6.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/hutool/hutool-poi/5.6.1/hutool-poi-5.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/cn/hutool/hutool-core/5.6.1/hutool-core-5.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/cn/hutool/hutool-log/5.6.1/hutool-log-5.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
