@@ -8,7 +8,7 @@ And also used UI and UX concepts and [JFoenix](http://www.jfoenix.com/) library
 * JFoenix (Material Design Library)
 * Jasper Reports
 * MySQL
-* IntelliJ Idea Ultimate (IDE)
+* IntelliJ Idea (IDE)
 
 ## Used Design Patterns
 * MVC 
