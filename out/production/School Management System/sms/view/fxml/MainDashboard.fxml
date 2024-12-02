@@ -22,7 +22,7 @@
             <Image url="@../../other/img/SchoolInfo.png" />
          </image>
       </ImageView>
-      <ImageView fx:id="StudentMgmt" fitHeight="141.0" fitWidth="147.0" layoutX="366.0" layoutY="170.0" pickOnBounds="true" preserveRatio="true">
+      <ImageView fx:id="StudentMgmt" fitHeight="141.0" fitWidth="147.0" layoutX="381.0" layoutY="170.0" pickOnBounds="true" preserveRatio="true">
          <image>
             <Image url="@../../other/img/StudentMgmt.png" />
          </image>
@@ -32,7 +32,7 @@
             <Font name="Calibri Bold" size="14.0" />
          </font>
       </JFXButton>
-      <JFXButton fx:id="btnStudentMgmt" buttonType="RAISED" layoutX="360.0" layoutY="315.0" onAction="#setBtnStudentMgmt" prefHeight="38.0" prefWidth="150.0" stylesheets="@css/RegStudent.css" text="Student Management" textFill="WHITE">
+      <JFXButton fx:id="btnStudentMgmt" buttonType="RAISED" layoutX="376.0" layoutY="315.0" onAction="#setBtnStudentMgmt" prefHeight="38.0" prefWidth="150.0" stylesheets="@css/RegStudent.css" text="Student Management" textFill="WHITE">
          <font>
             <Font name="Calibri Bold" size="14.0" />
          </font>
@@ -63,11 +63,12 @@
             </JFXButton>
             </children>
         </Pane>
-      <Label layoutX="278.0" layoutY="499.0" text="School Management System 1.0 Remastered" textAlignment="CENTER" textFill="#0e4ee3e7">
+      <Label layoutX="304.0" layoutY="502.0" text="School Management System 1.0" textAlignment="CENTER" textFill="#0e4ee3e7">
          <font>
             <Font name="Marlett" size="22.0" />
          </font>
       </Label>
+      <Label layoutX="858.0" layoutY="569.0" text="Aka" />
     </children>
 
 </AnchorPane>

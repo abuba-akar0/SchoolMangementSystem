@@ -72,7 +72,7 @@ FROM students where grade = $P{grade}]]>
 				<textElement>
 					<font size="18"/>
 				</textElement>
-				<text><![CDATA[AL-HIKMA JUNIOR SCHOOL, MARUTHAMUNAI]]></text>
+				<text><![CDATA[Sir Syed Model Public School Barbien Boi Abbottabad]]></text>
 			</staticText>
 			<staticText>
 				<reportElement x="331" y="21" width="100" height="30" uuid="a4522cbc-0d41-4880-8907-17c06a0c5d5d"/>

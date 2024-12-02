@@ -61,7 +61,7 @@
 				<textElement>
 					<font size="20"/>
 				</textElement>
-				<text><![CDATA[AL-HIKMA JUNIOR SCHOOL, MARUTHAMUNAI]]></text>
+				<text><![CDATA[Sir Syed Model Public School Barbien Boi Abbottabad]]></text>
 			</staticText>
 			<staticText>
 				<reportElement x="325" y="27" width="127" height="30" uuid="97339c89-57a6-4f5f-96d8-ee6c2c7a87b6"/>
@@ -242,7 +242,7 @@
 				<textElement>
 					<font size="8"/>
 				</textElement>
-				<text><![CDATA[Software Developed By Ahamed Safnaj - 0777 97 42 07   |   Copyright © Al-Hikma Junior School, Maruthamunai]]></text>
+				<text><![CDATA[Software Developed By Aka- 03231520492  |  Copyright © Sir Syed Model Public School Barbien Boi Abbottabad]]></text>
 			</staticText>
 		</band>
 	</pageFooter>
